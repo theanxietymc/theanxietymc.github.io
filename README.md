@@ -1,7 +1,7 @@
 # **THE ANXIETY**
 ![GitHub issues](https://img.shields.io/github/issues/theanxietymc/TheAnxiety/total?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/theanxietymc/TheAnxiety/total?style=for-the-badge)
-![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Ftheanxietymc&color=1d9bf0)
+![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=theanxietymc&color=1d9bf0)
 
 ## READY FOR THE ANXIETY?
 The Anxiety is a 1.17.1 adventure map, full of places to explore, where you need to collect all artifacts in order to save the kingdom once and for all...
@@ -9,6 +9,7 @@ Your help is needed! [Download the map now!]()
 
 ## Features
 - [] hours of gameplay!
+- Own datapack for dialogues, advancements and more!
 - Own custom resource pack!
   - Custom mobs, items, and soundtrack!
 
@@ -44,7 +45,7 @@ This project wouldn't have been possible without its
     - Lupinski
 - Programmers
     - Iolaos (in-game commands and bosses)
-    - SuperFreak (datapack, resource pack, website)
+    - [SuperFreak](https://superfreak504.github.io/) (datapack, resource pack, [website](https://theanxietymc.github.io/))
 - And used programs:
     - [World Painter](https://www.worldpainter.net/)
     - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
