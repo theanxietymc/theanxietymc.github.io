@@ -10,8 +10,7 @@ Your help is needed! [Download the map now!]()
 ## Features
 - [] hours of gameplay!
 - Own custom resource pack!
-    - Custom mobs, items, and soundtrack!
--
+  - Custom mobs, items, and soundtrack!
 
 ## Installation
 ### Map
