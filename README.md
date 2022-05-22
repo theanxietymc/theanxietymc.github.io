@@ -1,7 +1,7 @@
 # **THE ANXIETY**
 ![GitHub issues](https://img.shields.io/github/issues/theanxietymc/TheAnxiety/total?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/theanxietymc/TheAnxiety/total?style=for-the-badge)
-![Twitter URL](https://img.shields.io/twitter/follow/theanxietymc?label=Follow&amp;style=for-the-badge&color=1d9bf0)
+![Twitter Follow](https://img.shields.io/twitter/follow/theanxietymc?color=1d9bf0&label=Follow&style=for-the-badge)
 
 ## READY FOR THE ANXIETY?
 The Anxiety is a 1.17.1 adventure map, full of places to explore, where you need to collect all artifacts in order to save the kingdom once and for all...
